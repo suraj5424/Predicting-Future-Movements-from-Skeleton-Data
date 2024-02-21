@@ -1,4 +1,5 @@
-### Learning of Structured Data: **Predicting Future Movements from Skeleton Data**
+### Predicting Future Movements from Skeleton Data
+
 
 **Skeleton Data Analysis:**
 Skeleton data analysis offers valuable insights into human movements and actions, facilitating applications such as fall detection and gesture recognition. This notebook tackles the challenge of predicting future movements based on past skeleton data, leveraging machine learning techniques. The dataset consists of time series of 3D skeleton data collected from individuals performing various activities.
